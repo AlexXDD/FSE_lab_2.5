@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25123.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FSE_2.1", "FSE_2.1\FSE_2.1.csproj", "{1106AFFD-7356-4CE5-8CCB-0DB9D29EEFA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Climate Control", "Climate Control\Climate Control.csproj", "{F35B4653-B7F8-4402-B834-469EFCFF8FBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1106AFFD-7356-4CE5-8CCB-0DB9D29EEFA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1106AFFD-7356-4CE5-8CCB-0DB9D29EEFA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1106AFFD-7356-4CE5-8CCB-0DB9D29EEFA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F35B4653-B7F8-4402-B834-469EFCFF8FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F35B4653-B7F8-4402-B834-469EFCFF8FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F35B4653-B7F8-4402-B834-469EFCFF8FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F35B4653-B7F8-4402-B834-469EFCFF8FBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

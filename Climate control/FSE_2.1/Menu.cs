@@ -8,6 +8,11 @@ namespace FSE_2._1
 {
     public static class Menu
     {
-        public static void displayInformation(ECU ecu) { }
+        public static void displayInformation(ECU ecu)
+        {
+            Console.WriteLine("Flow direction mode: " + ecu.AirDirection 
+                + "\nInterior temperature: " + ecu.InteriorTemerature
+                + "\nExterior temperature: " + ecu.ExteriorTemperature);
+        }
     }
 }

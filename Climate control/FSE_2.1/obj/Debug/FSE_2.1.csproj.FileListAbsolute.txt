@@ -3,3 +3,8 @@ C:\Users\Олег\Documents\Visual Studio 2015\Projects\FSE_2.1\FSE_2.1\bin\Debu
 C:\Users\Олег\Documents\Visual Studio 2015\Projects\FSE_2.1\FSE_2.1\obj\Debug\FSE_2.1.csprojResolveAssemblyReference.cache
 C:\Users\Олег\Documents\Visual Studio 2015\Projects\FSE_2.1\FSE_2.1\obj\Debug\FSE_2.1.dll
 C:\Users\Олег\Documents\Visual Studio 2015\Projects\FSE_2.1\FSE_2.1\obj\Debug\FSE_2.1.pdb
+C:\Users\Олег\Desktop\FSE_lab2.5\Climate control\FSE_2.1\bin\Debug\FSE_2.1.dll
+C:\Users\Олег\Desktop\FSE_lab2.5\Climate control\FSE_2.1\bin\Debug\FSE_2.1.pdb
+C:\Users\Олег\Desktop\FSE_lab2.5\Climate control\FSE_2.1\obj\Debug\FSE_2.1.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Desktop\FSE_lab2.5\Climate control\FSE_2.1\obj\Debug\FSE_2.1.dll
+C:\Users\Олег\Desktop\FSE_lab2.5\Climate control\FSE_2.1\obj\Debug\FSE_2.1.pdb

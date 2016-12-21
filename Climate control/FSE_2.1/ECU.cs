@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace FSE_2._1
+﻿namespace FSE_2._1
 {
     public class ECU
     {
@@ -29,20 +23,20 @@ namespace FSE_2._1
                 airFlow = value;
             }
         }
-
-        public int Temperature
+        public int ExteriorTemperature
+        {
+            get
+            {
+                return sensor.ExteriorTemperature;
+            }
+        }
+        public int InteriorTemerature
         {
             get
             {
                 return sensor.InteriorTemperature;
             }
-
-            set
-            {
-                sensor.InteriorTemperature = value;
-            }
         }
-
         public enum flowDirection {automatic, legs, face,
             face_legs, windshield, windshield_legs  }
     }

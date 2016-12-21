@@ -1,0 +1,8 @@
+C:\Users\Олег\Desktop\FSE_lab2.5\Climate control\Climate Control\bin\Debug\Climate Control.exe.config
+C:\Users\Олег\Desktop\FSE_lab2.5\Climate control\Climate Control\bin\Debug\Climate Control.exe
+C:\Users\Олег\Desktop\FSE_lab2.5\Climate control\Climate Control\bin\Debug\Climate Control.pdb
+C:\Users\Олег\Desktop\FSE_lab2.5\Climate control\Climate Control\bin\Debug\FSE_2.1.dll
+C:\Users\Олег\Desktop\FSE_lab2.5\Climate control\Climate Control\bin\Debug\FSE_2.1.pdb
+C:\Users\Олег\Desktop\FSE_lab2.5\Climate control\Climate Control\obj\Debug\Climate Control.csprojResolveAssemblyReference.cache
+C:\Users\Олег\Desktop\FSE_lab2.5\Climate control\Climate Control\obj\Debug\Climate Control.exe
+C:\Users\Олег\Desktop\FSE_lab2.5\Climate control\Climate Control\obj\Debug\Climate Control.pdb

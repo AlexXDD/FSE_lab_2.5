@@ -1,0 +1,16 @@
+21.12.2016
+
+General changes:
+- removed unnessesary usings from all files;
+- created a startup project;
+
+ECU.cs:
+- removed property "Temperature"
+- added properties "ExteriorTemperature" and "InteriorTemperature" for getting temperature measurements from sensor
+
+Menu.cs:
+- added realization for method "displayInformation";
+
+Sensor.cs
+- added default constructor;
+- methods "IncreaseTemperature" and "DecreaseTemperature" removed;

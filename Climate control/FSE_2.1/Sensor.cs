@@ -4,6 +4,12 @@
     {
         private int exteriorTemp, interiorTemp;
 
+        public Sensor()
+        {
+            exteriorTemp = 0; // Here must be exterior temperature
+            interiorTemp = 22; // Here must be interior temperature
+        }
+    
         public int ExteriorTemperature
         {
             get
@@ -18,16 +24,6 @@
             {
                 return interiorTemp;
             }
-        }
-
-        public void IncreaseTemperature()
-        {
-            interiorTemp++;
-        }
-
-        public void DecreaseTemperature()
-        {
-            interiorTemp--;
         }
     }
 }
